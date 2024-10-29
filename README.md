@@ -1,7 +1,7 @@
 <div align="center">
 
 ![](https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20)
-# Zach Johnson
+<h1><pre>Zach Johnson</pre></h1>
 
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
