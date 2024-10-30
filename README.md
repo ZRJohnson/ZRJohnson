@@ -7,7 +7,7 @@
 <a href="zachrjohnson08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
-<!------- --Github Stats-- ------->
+<!------- --GitHub Stats-- ------->
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson&show_icons=true&count_private=true&theme=dark)
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson&theme=dark)
 </div>
