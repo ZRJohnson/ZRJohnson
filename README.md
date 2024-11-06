@@ -15,6 +15,7 @@
 
 <!------- --About Me-- ------->
 ## ℹ️ About Me
+I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS.
 
 ## 🛠 Programming & Tool Stack
 
