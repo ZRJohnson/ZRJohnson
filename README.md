@@ -4,6 +4,7 @@
 ![](https://github.com/user-attachments/assets/7c258892-9b00-413f-af2c-ec7486151e20)
 <h1><pre>Hello, I'm Zach Johnson</pre></h1>
 
+<a href="https://www.youtube.com/@cardinalboy-fy3lu"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="mailto:zachrjohnson08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 
