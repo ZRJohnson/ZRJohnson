@@ -25,3 +25,7 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 | ![IDE](https://img.shields.io/badge/-IDE-black?style=flat)        |  ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)|
 | ![OS](https://img.shields.io/badge/-OS-black?style=flat)          |  ![Win11](https://img.shields.io/badge/Windows_11-0078d4?style=flat&logo=windows-11&logoColor=white)
 | ![TERMINAL](https://img.shields.io/badge/-TERMINAL-black?style=flat) | ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=flat&logo=powershell&logoColor=white) ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows%20terminal&logoColor=white)
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ZRJohnson&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)
