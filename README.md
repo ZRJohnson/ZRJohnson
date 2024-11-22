@@ -10,7 +10,8 @@
 
 <!------- --GitHub Stats-- ------->
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson&show_icons=true&count_private=true&theme=dark)
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson&langs_count=10&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZRJohnson&theme=dark)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson&langs_count=10&card_width=800&theme=dark)
 </div>
 
 <!------- --About Me-- ------->
