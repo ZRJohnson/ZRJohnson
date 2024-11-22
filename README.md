@@ -11,6 +11,7 @@
 <!------- --GitHub Stats-- ------->
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZRJohnson&show_icons=true&count_private=true&theme=dark)
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ZRJohnson&langs_count=10&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZRJohnson&theme=dark)
 </div>
 
 <!------- --About Me-- ------->
@@ -29,3 +30,8 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ZRJohnson&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)
+---
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
