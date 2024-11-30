@@ -25,7 +25,7 @@
 
 <!------- --About Me-- ------->
 ## ℹ️ About Me
-I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS.
+I'm a self-taught, passionate programmer and web developer. I have extensive experience in HTML and CSS. I strongly believe in and contribute to Open Source. Other than programming, I like to play videogames and watch [anime](https://anilist.co/user/ZachRJohnson208/animelist).
 
 ## 🛠 Programming & Tool Stack
 
@@ -39,3 +39,5 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 ## 🏆 GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ZRJohnson&theme=darkhub&no-bg=true&no-frame=true&margin-w=4)
+
+<p align="center"><sub>Made With ❤️<br>Copyright © 2023-present ZRJohnson</sub></p>
