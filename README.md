@@ -42,6 +42,6 @@ I'm a self-taught, passionate programmer and web developer. I have extensive exp
 
 <div align="center">
 <br>
-<img src="https://komarev.com/ghpvc/?username=ZRJohnson208&style=for-the-badge&color=ff0000"> <img src="https://wakatime.com/badge/user/c623b723-7c12-42f9-bc5a-5ab7a84b42ab.svg?&style=for-the-badge&color=ff0000">
+<!-- <img src="https://komarev.com/ghpvc/?username=ZRJohnson208&style=for-the-badge&color=ff0000"> --> <img src="https://wakatime.com/badge/user/c623b723-7c12-42f9-bc5a-5ab7a84b42ab.svg?&style=for-the-badge&color=ff0000">
 <p><br><sub>Made With ❤️<br>Copyright © 2024-present ZRJohnson208</sub></p></p>
 </div>
